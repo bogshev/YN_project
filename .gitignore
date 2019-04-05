@@ -1,0 +1,33 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+# Maven #
+.mvn
+/target/
+yes_no/target
+my-app/node_modules
+/yes_no/target/
+/my-app/node_modules/
+/yes_no/target
+/my-app/node_modules
+/my-app/src/node
+mvnw
+mvnw.cmd
+
+# Angular #
